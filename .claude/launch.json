@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "FiveM Installer App",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["main.py"],
+      "port": 8765
+    },
+    {
+      "name": "HTML Dev Preview",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8080"],
+      "port": 8080
+    }
+  ]
+}

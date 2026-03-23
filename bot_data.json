@@ -1,0 +1,120 @@
+{
+  "whitelist": [],
+  "blacklist": [
+    "069C-D43E-B31E-FA64",
+    "NEXUS-05F6-????-????",
+    "521365854839898113"
+  ],
+  "issued": {
+    "NEXUS-6559-9B52-0AFE": {
+      "user": "snirdahan (snir654)",
+      "user_id": 521365854839898113,
+      "key": "NEXUS-6559-9B52-0AFE",
+      "hwid": null,
+      "issued_at": "06/03/2026 13:13",
+      "msg_id": 1479436872886255667,
+      "used": false,
+      "used_at": null,
+      "ip": null,
+      "os": null,
+      "given_by": "snirdahan (snir654)"
+    },
+    "NEXUS-F146-F5B4-9907": {
+      "user": "snirdahan (snir654)",
+      "user_id": 521365854839898113,
+      "key": "NEXUS-F146-F5B4-9907",
+      "hwid": null,
+      "issued_at": "06/03/2026 13:49",
+      "msg_id": 1479445916548071447,
+      "used": false,
+      "used_at": null,
+      "ip": null,
+      "os": null,
+      "given_by": "snirdahan (snir654)"
+    },
+    "NEXUS-4592-E90C-3102": {
+      "user": "snirdahan (snir654)",
+      "user_id": 521365854839898113,
+      "key": "NEXUS-4592-E90C-3102",
+      "hwid": null,
+      "issued_at": "06/03/2026 16:03",
+      "msg_id": 1479479473962221720,
+      "used": false,
+      "used_at": null,
+      "ip": null,
+      "os": null,
+      "given_by": "snirdahan (snir654)"
+    },
+    "NEXUS-05F6-FD12-FA48": {
+      "user": "thebloodgod_og (BloodGod)",
+      "user_id": 702460098404024330,
+      "key": "NEXUS-05F6-FD12-FA48",
+      "hwid": null,
+      "issued_at": "06/03/2026 16:03",
+      "msg_id": 1479479561124188193,
+      "used": false,
+      "used_at": null,
+      "ip": null,
+      "os": null,
+      "given_by": "snirdahan (snir654)"
+    },
+    "NEXUS-FFBA-D707-6846": {
+      "user": "thebloodgod_og (BloodGod)",
+      "user_id": 702460098404024330,
+      "key": "NEXUS-FFBA-D707-6846",
+      "hwid": null,
+      "issued_at": "06/03/2026 16:03",
+      "msg_id": 1479479567231221852,
+      "used": false,
+      "used_at": null,
+      "ip": null,
+      "os": null,
+      "given_by": "snirdahan (snir654)"
+    },
+    "NEXUS-0905-FCC3-9341": {
+      "user": "ido686 (ido686)",
+      "user_id": 927964506070609920,
+      "key": "NEXUS-0905-FCC3-9341",
+      "hwid": null,
+      "issued_at": "06/03/2026 20:40",
+      "msg_id": 1479549330443730977,
+      "used": false,
+      "used_at": null,
+      "ip": null,
+      "os": null,
+      "given_by": "snirdahan (snir654)"
+    }
+  },
+  "tickets": {
+    "1479433201834528920": {
+      "user": "snirdahan (snir654)",
+      "user_id": 521365854839898113,
+      "category": "purchase",
+      "opened_at": "06/03/2026 12:59",
+      "closed": true,
+      "closed_by": "snirdahan (snir654)",
+      "closed_at": "06/03/2026 12:59",
+      "channel_id": 1479433201834528920
+    },
+    "1479479767274094757": {
+      "user": "snirdahan (snir654)",
+      "user_id": 521365854839898113,
+      "category": "purchase",
+      "opened_at": "06/03/2026 16:04",
+      "closed": true,
+      "closed_by": "snirdahan (snir654)",
+      "closed_at": "06/03/2026 16:04",
+      "channel_id": 1479479767274094757
+    },
+    "1479547664835022848": {
+      "user": "snirdahan (snir654)",
+      "user_id": 521365854839898113,
+      "category": "purchase",
+      "opened_at": "06/03/2026 20:34",
+      "closed": true,
+      "closed_by": "snirdahan (snir654)",
+      "closed_at": "06/03/2026 20:34",
+      "channel_id": 1479547664835022848
+    }
+  }
+}
